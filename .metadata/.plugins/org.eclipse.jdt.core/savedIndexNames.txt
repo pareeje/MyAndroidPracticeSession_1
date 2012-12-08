@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/Users/sudiptadeb/Documents/SudiptaDeb/MyAndroid/AndroidWorkspace/MyAndroidPracticeSession_1/.metadata/.plugins/org.eclipse.jdt.core
+588516407.index
+148095618.index
