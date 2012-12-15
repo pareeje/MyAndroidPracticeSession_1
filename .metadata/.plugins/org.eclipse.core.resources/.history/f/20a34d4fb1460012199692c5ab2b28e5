@@ -1,0 +1,42 @@
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:padding="5dip" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_column="1"
+                android:textAppearance="?android:attr/textAppearanceLarge" 
+                android:text="Bill Total"/>
+
+            <EditText
+                android:id="@+id/editText1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:ems="10" >
+
+                <requestFocus />
+            </EditText>
+
+        </TableRow>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TextView" />
+
+        </LinearLayout>
+
+    </TableLayout>

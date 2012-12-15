@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.example.explicitintent.MainActivity"/>
+<fullyQualifiedTypeName name="com.example.explicitintent.SecondActivity"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="android.widget.EditText"/>
+<fullyQualifiedTypeName name="com.example.explicitintent.R.id"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
+</qualifiedTypeNameHistroy>
